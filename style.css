@@ -1,0 +1,17 @@
+.grey {
+  width: 680px;
+  height: 500px;
+  background-color: grey;
+  position: relative;
+}
+.yellow {
+  width: 450px;
+  height: 300px;
+  background-color: yellow;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
+.tag {
+  margin-top: 250px;
+}
